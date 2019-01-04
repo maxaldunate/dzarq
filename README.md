@@ -1,6 +1,6 @@
 # DZ Arquitectura
 
-## [DZ Arquitectura Wordpress Site](https://www.dzarquitectura.com)
+## [DZ Arquitectura Wordpress Site](http://www.dzarquitectura.com)
 
 * Wordpress site on AWS
 * EC2 ELB  CloudFront SSL
